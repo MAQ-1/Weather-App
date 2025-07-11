@@ -32,5 +32,3 @@ A sleek, responsive weather forecast web app built using HTML, CSS, and JavaScri
 
 
 
-```md
-![Screenshot](./screenshots/home.png)
